@@ -37,8 +37,8 @@ if __name__ == '__main__':
 	try:
 		print("""\033[1m
    _____ __  ________
-  / ___//  |/  / ___/ | SMS Spammer
-  \__ \/ /|_/ /\__ \  | SMS Spammer using api from IndiHome
+  / ___//  |/  / ___/ | SMS Spammer Author:Ade Mara01 Yt:AdeMara
+  \__ \/ /|_/ /\__ \  | SMS Spammer Dari Otp IndiHome
  ___/ / /  / /___/ /  | Coded by Xractz - \033[31;2mIndo\033[39;2mSec\033[0;1m
 /____/_/  /_//____/   | ex: 08xxxxx77\033[0m
 	""")
@@ -65,3 +65,11 @@ if __name__ == '__main__':
 	except(KeyboardInterrupt, EOFError):
 		print("\n")
 		sys.exit()
+
+if __name__ == '__main__':
+	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
+	sleep(2)
+	os.system('clear')
+	os.system('xdg-open https://www.youtube.com/channel/UCm44L0CGNh74uc3uti_L3BQ')
+	sleep(7)
+	Spam()
